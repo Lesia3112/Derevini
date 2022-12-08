@@ -1,0 +1,24 @@
+@import '../../../App.css';
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.wrapper {
+  display: flex;
+  justify-content:space-between;
+  width: 100%;
+  padding-top: 20px;
+  flex-wrap: wrap;
+}
+
+.imageWrapper {
+  max-width: 588px;
+  width: 100%;
+  margin-bottom: 20px;
+
+}
+
+.images {
+  width: 100%;
+}

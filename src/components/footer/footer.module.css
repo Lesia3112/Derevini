@@ -1,0 +1,39 @@
+.footer {
+  display: flex;
+  width: 100%;
+  padding: 10px;
+  border-top: 1px solid var(--c_peru);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.title {
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+  color: var(--c_peru);
+}
+
+
+.iconWrapper {
+  display: flex;
+  max-width: 100px;
+  width: 100%;
+  justify-content: space-around;
+  margin: 0 auto;
+  align-items: center;
+}
+.link {
+font-size: 30px;
+color: var(--c_white);
+}
+.orderNumer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 200px;
+  font-size: 20px;
+}

@@ -1,0 +1,26 @@
+
+
+.navigationBlock {
+  max-width: 900px;
+  width: 100%;
+}
+
+.navigationList {
+  display: flex;
+  justify-content:end;
+  align-items: center;
+}
+.navigationItem {
+  height: 50px;
+  display: flex;
+  margin-right: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigationLink{
+  text-decoration: none;
+  font-family: var(--font_inter);
+  font-size: 20px;
+  color: var(--c_peru);
+}

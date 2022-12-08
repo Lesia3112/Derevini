@@ -1,0 +1,13 @@
+.logoContainer {
+  display: flex;
+  max-width: 100px;
+  max-height: 100px;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-left: 0;
+}
+.logo {
+  border-radius: 50%;
+  width: 100%;
+}

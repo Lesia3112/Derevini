@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Derevini/static/css/main.256db54f.css",
+    "main.js": "/Derevini/static/js/main.a92262a5.js",
+    "static/js/787.60f114b4.chunk.js": "/Derevini/static/js/787.60f114b4.chunk.js",
+    "static/media/classic.jpg": "/Derevini/static/media/classic.bb00fc4920fa39f9eda0.jpg",
+    "static/media/gawai.jpg": "/Derevini/static/media/gawai.49f2d39dec7838cdaab9.jpg",
+    "static/media/dablburger.jpg": "/Derevini/static/media/dablburger.415d932174293d206176.jpg",
+    "static/media/black.jpg": "/Derevini/static/media/black.11a908eac5b386f36311.jpg",
+    "static/media/cezar.jpg": "/Derevini/static/media/cezar.e227a06475fdb77a3c23.jpg",
+    "static/media/cheese.jpg": "/Derevini/static/media/cheese.b15cc56c7f649aeb19f7.jpg",
+    "static/media/menu.jpg": "/Derevini/static/media/menu.d2ec1247d095eed883d7.jpg",
+    "static/media/umbrella.jpg": "/Derevini/static/media/umbrella.4e720259e173aea3d189.jpg",
+    "static/media/tablle.jpg": "/Derevini/static/media/tablle.daf09e481f8fa48db804.jpg",
+    "index.html": "/Derevini/index.html",
+    "main.256db54f.css.map": "/Derevini/static/css/main.256db54f.css.map",
+    "main.a92262a5.js.map": "/Derevini/static/js/main.a92262a5.js.map",
+    "787.60f114b4.chunk.js.map": "/Derevini/static/js/787.60f114b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.256db54f.css",
+    "static/js/main.a92262a5.js"
+  ]
+}
